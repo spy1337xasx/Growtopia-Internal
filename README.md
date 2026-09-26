@@ -16,11 +16,10 @@ Welcome to the official repository for **Electron**. Electron is a lightweight, 
 - **Easy Setup:** Simple one-click loader interface.
 
 ### 🖼️ Screenshots & Previews
-> *Insert your in-game screenshots and UI previews here!*
 
-| Menu Preview | In-Game View |
+| Electron Menu Preview | In-Game View & Features |
 | :---: | :---: |
-| ![Menu](https://via.placeholder.com/400x250?text=Electron+Menu+Preview) | ![Gameplay](https://via.placeholder.com/400x250?text=In-Game+Preview) |
+| ![Electron Menu](https://media.discordapp.net/attachments/1408341539226386520/1550844975527366687/image.png?ex=6ab8622f&is=6ab710af&hm=5e2cd32623468f8fca63c6b1b786981b773bf139f818ef31630eb9e2e7c585cc&=&format=webp&quality=lossless&width=1024&height=764) | ![In-Game Features](https://media.discordapp.net/attachments/1408341539226386516/1552501457302061168/image.png?ex=6ab87a27&is=6ab728a7&hm=06aa7067a2fdc1d1688da5427a3d3ff1232c15f5134af07aac09355ab4f4078a&=&format=webp&quality=lossless&width=1280&height=688) |
 
 ---
 
@@ -28,7 +27,7 @@ Welcome to the official repository for **Electron**. Electron is a lightweight, 
 
 To purchase **Electron** or get customer support, join our official Discord server!
 
-1. Join our Discord Community: **[Discord Community Link](https://discord.gg/your-invite-link)**
+1. Join our Discord Community: **[Discord Community Link](https://discord.gg/erckpsgjYq)**
 2. Open a ticket in the `#tickets` or `#purchase` channel.
 3. Select your desired subscription plan (Daily / Weekly / Monthly / Lifetime).
 4. Complete your payment and receive your instant license key & loader download.
@@ -52,11 +51,10 @@ To purchase **Electron** or get customer support, join our official Discord serv
 - **Kolay Kurulum:** Tek tıkla kolay başlatma arayüzü.
 
 ### 🖼️ Oyun İçi Görseller ve Ekran Görüntüleri
-> *Oyun içi görsellerinizi ve menü önizlemelerinizi buraya ekleyebilirsiniz!*
 
-| Menü Önizlemesi | Oyun İçi Görünüm |
+| Electron Menü Görünümü | Oyun İçi Görünüm & Özellikler |
 | :---: | :---: |
-| ![Menü](https://via.placeholder.com/400x250?text=Electron+Menu+Preview) | ![Oyun Ici](https://via.placeholder.com/400x250?text=In-Game+Preview) |
+| ![Electron Menü](https://media.discordapp.net/attachments/1408341539226386520/1550844975527366687/image.png?ex=6ab8622f&is=6ab710af&hm=5e2cd32623468f8fca63c6b1b786981b773bf139f818ef31630eb9e2e7c585cc&=&format=webp&quality=lossless&width=1024&height=764) | ![Oyun İçi Özellikler](https://media.discordapp.net/attachments/1408341539226386516/1552501457302061168/image.png?ex=6ab87a27&is=6ab728a7&hm=06aa7067a2fdc1d1688da5427a3d3ff1232c15f5134af07aac09355ab4f4078a&=&format=webp&quality=lossless&width=1280&height=688) |
 
 ---
 
@@ -64,7 +62,7 @@ To purchase **Electron** or get customer support, join our official Discord serv
 
 **Electron** sürümünü satın almak veya destek almak için resmi Discord sunucumuza katılabilirsiniz!
 
-1. Discord Sunucumuza Katılın: **[Discord Sunucumuza Katılın](https://discord.gg/your-invite-link)**
+1. Discord Sunucumuza Katılın: **[Discord Sunucumuza Katılın](https://discord.gg/erckpsgjYq)**
 2. `#destek` veya `#satın-al` kanalından bir talep (ticket) oluşturun.
 3. İhtiyacınıza uygun lisans paketini seçin (Günlük / Haftalık / Aylık / Sınırsız).
 4. Ödemeyi tamamlayarak lisans anahtarınızı ve başlatıcı indirme bağlantısını anında teslim alın.
